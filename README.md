@@ -1,1 +1,1 @@
-# Dolgozat_A_Kov-cs-ron
+# Dolgozat_A_KovacsAron
