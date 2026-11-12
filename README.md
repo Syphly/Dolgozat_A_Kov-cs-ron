@@ -1,0 +1,1 @@
+# Dolgozat_A_Kov-cs-ron
